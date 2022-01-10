@@ -46,4 +46,26 @@ Interested parties:
 
 ### Process Services
 
+**Finalizing and improving APS SDK 2.x**
+
+Idea owner: Piergiorgio Lucidi
+
+Description: The aim of this project is to finalize the development of APS SDK 2.x. The new branch is started but we need to work together for collecting feedbacks, ideas and contributions. The overall goal is to let developers to be focused only on their implementation project and not in setupping Maven modules of Alfresco. 
+
+Roadmap:
+* Add support for APS 2.x (2.0.1 and 2.1.0)
+* Add a new Maven module to generate the Java Swagger client (for all the APS versions)
+* Add a new Maven module for integration tests
+* Add an example of integration test
+
+Prep work: Fork the APS SDK project and checkout the branch 2.x:
+https://github.com/OpenPj/alfresco-process-services-project-sdk/tree/2.x
+
+
+Interested parties:
+
+* 
+
+-- 
+
 ### Application Development Framework
