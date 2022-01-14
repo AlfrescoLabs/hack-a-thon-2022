@@ -42,7 +42,23 @@ Interested parties:
 
 --
 
+
 ### Content Services
+
+**Removing Search Services Suggester Temporal Files**
+
+Idea owner: Angel Borroy
+
+Description: When using suggester in Search Services, old temporary files are not removed once the new ones are calculated. A Shell or Job can be developed in order to purge that directory periodically.
+
+Prep work: https://github.com/Alfresco/SearchServices/blob/master/search-services/alfresco-search/src/main/resources/solr/instance/templates/rerank/conf/solrcore.properties#L219
+
+Interested parties:
+
+*
+
+--
+
 
 ### Process Services
 
