@@ -38,7 +38,7 @@ Prep work: Get an Apple Silicon computer!
 
 Interested parties:
 
-*
+* Pavel Titenkov ([@titenkov](https://github.com/titenkov))
 
 --
 
