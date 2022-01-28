@@ -36,6 +36,8 @@ Description: The aim of this project is to test Alfresco SDK and Alfresco Docker
 
 Prep work: Get an Apple Silicon computer!
 
+Result: https://github.com/aborroy/alfresco-dockerx-builder
+
 Interested parties:
 
 * Pavel Titenkov ([@titenkov](https://github.com/titenkov))
