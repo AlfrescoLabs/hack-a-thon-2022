@@ -57,6 +57,7 @@ Prep work: https://github.com/Alfresco/SearchServices/blob/master/search-service
 
 Result: https://hub.alfresco.com/t5/alfresco-content-services-blog/understanding-alfresco-auto-suggest-feature/ba-p/311162
 
+--
 
 **Animated GIF using Alfresco Transformer**
 
