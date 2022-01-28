@@ -74,6 +74,14 @@ Result:
 
 --
 
+**Continue Work on Fork of JavaScript Console into OrderOfTheBee Support Tools**
+
+Idea owner: Axel Faust
+
+Description: During the last hack-a-thon, work was started on forking the JavaScript Console addon and integrate it into the OrderOfTheBee Support Tools. There still is work left to be done to adapt the code base (i.e. Share client files) to the project's standards / code format, and ideally optimise / clean it up. Due to high load of project work for business, I did not manage to work on that much in the last couple of months, and want to use the hack-a-thon to continue it now...
+
+Prep work: https://github.com/AFaust/ootbee-support-tools/tree/feature/js-console-fork
+
 
 ### Process Services
 
@@ -91,17 +99,3 @@ Roadmap:
 
 Prep work: Fork the APS SDK project and checkout the branch 2.x:
 https://github.com/OpenPj/alfresco-process-services-project-sdk/tree/2.x
-
-
--- 
-
-
-### Content Services
-
-**Continue Work on Fork of JavaScript Console into OrderOfTheBee Support Tools**
-
-Idea owner: Axel Faust
-
-Description: During the last hack-a-thon, work was started on forking the JavaScript Console addon and integrate it into the OrderOfTheBee Support Tools. There still is work left to be done to adapt the code base (i.e. Share client files) to the project's standards / code format, and ideally optimise / clean it up. Due to high load of project work for business, I did not manage to work on that much in the last couple of months, and want to use the hack-a-thon to continue it now...
-
-Prep work: https://github.com/AFaust/ootbee-support-tools/tree/feature/js-console-fork
